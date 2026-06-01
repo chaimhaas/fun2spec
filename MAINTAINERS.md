@@ -10,11 +10,11 @@ This file lists the maintainers and contributors of the fun2spec project.
 
 - **Tarun Suresh** ([@tarsur909](https://github.com/tarsur909))
   - Department: CTO Infrastructure & Security Research team (Researcher intern, Summer 2025)
-  - Role: Research Contributor
+  - Role: Core Contributor
 
 - **Julien Vanegue** ([@jvanegue](https://github.com/jvanegue)) — **Project Maintainer**
   - Department: CTO Infrastructure & Security Research team
-  - Role: Project Lead & Maintainer
+  - Role: Team Lead & Project Maintainer
 
 ## Contact
 
